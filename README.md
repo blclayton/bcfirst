@@ -1,2 +1,6 @@
 # bcfirst
-first repo
+New to GitHub
+=================
+
+ I like :coffee:,  :baseball:,  :dog: 
+ 
